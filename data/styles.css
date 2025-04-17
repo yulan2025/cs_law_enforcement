@@ -63,6 +63,10 @@
 }
 ._表单禁用 {
 }
+._流程形状 {
+}
+._线段 {
+}
 .image {
 }
 .paragraph {
@@ -129,6 +133,14 @@
 .ellipse {
 }
 ._形状1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
+}
+._图片 {
+}
+._形状2 {
 }
 ._文本段落1 {
   text-align:left;
@@ -185,5 +197,33 @@
 }
 .sticky_2 {
   text-align:left;
+}
+.shape1 {
+}
+.box_11 {
+}
+.ellipse1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:italic;
+}
+.image3 {
+}
+._文本链接 {
+}
+._链接悬停 {
+}
+._链接按下 {
+}
+._文本段落2 {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.form_disabled1 {
+}
+._默认样式1 {
 }
 textarea, select, input, button { outline: none; }
