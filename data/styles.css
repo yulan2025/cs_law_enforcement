@@ -67,6 +67,8 @@
 }
 ._线段 {
 }
+._连接 {
+}
 .image {
 }
 .paragraph {
@@ -158,6 +160,8 @@
 }
 .line {
 }
+.arrow {
+}
 .placeholder {
 }
 .heading_2 {
@@ -238,6 +242,9 @@
 }
 .table_cell {
 }
+.sticky_1 {
+  text-align:left;
+}
 .paragraph2 {
   text-align:left;
 }
@@ -251,5 +258,20 @@
   text-align:left;
 }
 .flow_shape {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
+.box_22 {
+}
+.marker {
+  color:#FFFFFF;
+}
+._连接线 {
+  color:#333333;
 }
 textarea, select, input, button { outline: none; }
